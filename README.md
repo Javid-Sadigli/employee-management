@@ -55,7 +55,7 @@ Follow these steps to set up and run the project locally.
 To start the application, use one of the following commands:
 
 ```bash
-.\gradle bootRun
+.\gradlew bootRun
 ```
 
 The application will be available at `http://localhost:8080`.
